@@ -1,2 +1,2 @@
 # ForStar
-A Efficient Compiler built by JAVA
+An Efficient Compiler Built by JAVA
